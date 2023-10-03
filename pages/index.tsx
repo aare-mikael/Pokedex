@@ -77,11 +77,6 @@ function Home({ types }: HomeProps) {
 
         <div className={styles.grid}>
           <GridH2
-            link="https://gitlab.azets.com/mikael.aare/Connect-Junior-Project-Mikael"
-            head="GitLab"
-            desc="The repository for this project"
-          />
-          <GridH2
             link="https://github.com/mazipan/graphql-pokeapi"
             head="PokeAPI"
             desc="Learn more about the API"
