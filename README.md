@@ -1,6 +1,6 @@
-## About:
+## About
 
-A project for my personal improvement in React, Typescript, Next.js and GraphQL, fetching and presenting Pokemon-data like a Pokedex.
+A project for my personal improvement in React, Typescript, Next.js and GraphQL.
 
 ## Getting started:
 
