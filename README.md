@@ -1,4 +1,4 @@
-# Pokedex:
+## About:
 
 A project for my personal improvement in React, Typescript, Next.js and GraphQL, fetching and presenting Pokemon-data like a Pokedex.
 
@@ -8,4 +8,4 @@ Clone the repository, install npm packages, and write "npm run dev" in your pref
 
 ## Description:
 
-This project fetches Pokemon data using the PokeAPI endpoint for GraphQL.
+This project functions like a Pokedex, and fetches Pokemon data using the PokeAPI endpoint for GraphQL.
